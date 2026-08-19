@@ -1,5 +1,5 @@
-# FIETA: Few-shot Inductive Knowledge Graph Completion via Task-aware Graph Neural Networks
-This is the official implementation of the paper **"FIETA: Few-shot Inductive Knowledge Graph Completion via Task-aware Graph Neural Networks"** accepted to the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026).
+# FIETA: Few-shot Inductive Knowledge Graph Completion via Task-Aware Graph Neural Networks
+This is the official implementation of the paper **"FIETA: Few-shot Inductive Knowledge Graph Completion via Task-Aware Graph Neural Networks"** accepted to the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026).
 
 All codes are written by **Chanyoung Chung** ([chanyoung.chung@kaist.ac.kr](mailto:chanyoung.chung@kaist.ac.kr)).
 
