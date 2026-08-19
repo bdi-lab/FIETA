@@ -4,13 +4,13 @@ This is the official implementation of the paper **"FIETA: Few-shot Inductive Kn
 All codes are written by **Chanyoung Chung** ([chanyoung.chung@kaist.ac.kr](mailto:chanyoung.chung@kaist.ac.kr)).
 
 If you use this repository, please cite our paper.
-```
+```bibtex
 @inproceedings{fieta,
   author={Chanyoung Chung and Minsung Hwang and Joyce Jiyoung Whang},
   title={FIETA: Few-shot Inductive Knowledge Graph Completion via Task-Aware Graph Neural Networks},
   year={2026},
-	booktitle={Proceedings of the 35th ACM International Conference on Information and Knowledge Management},
-	doi={10.1145/3799682.3840780},
+  booktitle={Proceedings of the 35th ACM International Conference on Information and Knowledge Management},
+  doi={10.1145/3799682.3840780},
 }
 ```
 
