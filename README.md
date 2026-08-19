@@ -10,7 +10,7 @@ We used Python 3.10.13, PyTorch 2.0.1, and CUDA 11.7 to run all experiments. Ins
 ```
 pip install -r requirements.txt
 ```
-Also, unzip `data.zip` to use the datasets.
+Also, unzip `data.zip` to use the datasets. You can download the datasets from [here](https://drive.google.com/file/d/1hQba5br53x0JiBWe355g1PGkls7VKzd7/view?usp=sharing).
 ## Preprocessing
 Use the following codes to compute positional encodings (LapPE):
 ```
